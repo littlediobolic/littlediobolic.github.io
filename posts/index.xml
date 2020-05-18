@@ -5,8 +5,18 @@
         <description>Recent content in Posts on Place for Things and Stuff</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 17 May 2020 19:38:26 -0400</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2020 21:59:33 -0400</lastBuildDate>
         <atom:link href="http://littlediobolic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Configure Apple Magic Trackpad 2 Gestures on Manjaro KDE</title>
+            <link>http://littlediobolic.github.io/posts/magic-trackpad/</link>
+            <pubDate>Sun, 17 May 2020 21:59:33 -0400</pubDate>
+            
+            <guid>http://littlediobolic.github.io/posts/magic-trackpad/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
         
         <item>
             <title>Hello World</title>
