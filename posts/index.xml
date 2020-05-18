@@ -1,29 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Place for Things and Stuff</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Place for Things and Stuff</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 19:38:26 -0400</lastBuildDate>
-    
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://example.org/posts/hello-world/</link>
-      <pubDate>Sun, 17 May 2020 19:38:26 -0400</pubDate>
-      
-      <guid>http://example.org/posts/hello-world/</guid>
-      <description>This is a test!
+    <channel>
+        <title>Posts on Place for Things and Stuff</title>
+        <link>http://example.org/posts/</link>
+        <description>Recent content in Posts on Place for Things and Stuff</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 17 May 2020 19:38:26 -0400</lastBuildDate>
+        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World</title>
+            <link>http://example.org/posts/hello-world/</link>
+            <pubDate>Sun, 17 May 2020 19:38:26 -0400</pubDate>
+            
+            <guid>http://example.org/posts/hello-world/</guid>
+            <description>This is a test!
 Doe this work this way aswell?
 from time import * print(&amp;#34;Test&amp;#34;) Bold Test
 Italics
  Block Quote, does this work?
  </description>
-    </item>
-    
-  </channel>
+            <content type="html"><![CDATA[<p>This is a test!</p>
+<p>Doe this work this way aswell?</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-Python" data-lang="Python">
+<span style="color:#f92672">from</span> time <span style="color:#f92672">import</span> <span style="color:#f92672">*</span>
+
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;Test&#34;</span>)
+</code></pre></div><p><strong>Bold Test</strong></p>
+<p><em>Italics</em></p>
+<blockquote>
+<p>Block Quote, does this work?</p>
+</blockquote>
+<p><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.6b5EOTfsh_vwIKUZSe1pAgHaEK%26pid%3DApi&amp;f=1" alt="Test Embedded Image"></p>
+]]></content>
+        </item>
+        
+    </channel>
 </rss>
