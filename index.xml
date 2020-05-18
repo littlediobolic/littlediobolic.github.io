@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Place for Things and Stuff</title>
-    <link>http://example.org/</link>
+    <link>http://littlediobolic.github.io/</link>
     <description>Recent content on Place for Things and Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 May 2020 19:38:26 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://littlediobolic.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello World</title>
-      <link>http://example.org/posts/hello-world/</link>
+      <link>http://littlediobolic.github.io/posts/hello-world/</link>
       <pubDate>Sun, 17 May 2020 19:38:26 -0400</pubDate>
       
-      <guid>http://example.org/posts/hello-world/</guid>
+      <guid>http://littlediobolic.github.io/posts/hello-world/</guid>
       <description>This is a test!
 Doe this work this way aswell?
 from time import * print(&amp;#34;Test&amp;#34;) Bold Test

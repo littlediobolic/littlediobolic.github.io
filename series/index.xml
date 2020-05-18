@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Place for Things and Stuff</title>
-    <link>http://example.org/series/</link>
+    <link>http://littlediobolic.github.io/series/</link>
     <description>Recent content in Series on Place for Things and Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://littlediobolic.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
