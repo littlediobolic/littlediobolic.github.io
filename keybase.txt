@@ -1,0 +1,58 @@
+littlediobolic
+Diobolic
+==================================================================
+https://keybase.io/littlediobolic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://littlediobolic.github.io
+  * I am littlediobolic (https://keybase.io/littlediobolic) on keybase.
+  * I have a public key ASBpUdlqnkEBFYJnkZqenYNDUa7AeBZaSkFsbPOq4C-ZtAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206951d96a9e4101158267919a9e9d834351aec078165a4a416c6cf3aae02f99b40a",
+      "host": "keybase.io",
+      "kid": "01206951d96a9e4101158267919a9e9d834351aec078165a4a416c6cf3aae02f99b40a",
+      "uid": "f83acdc5d34f33ed3abc59cfc8896919",
+      "username": "littlediobolic"
+    },
+    "merkle_root": {
+      "ctime": 1591719832,
+      "hash": "e3da97de43b4732b749512f8391240b157762c7d29c0d451c7d9c9f2fe9ba5214c7cadb65286db00995eecd575de5a31dcb29fb9e77ebc552b60beb3c8122f8a",
+      "hash_meta": "e82549ca88fb99a14facce156673b0f939de18b2382d079720681627a9b1f509",
+      "seqno": 16603983
+    },
+    "service": {
+      "entropy": "XW8jlsMRV+YP6oZuD0X4maLM",
+      "hostname": "littlediobolic.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1591719843,
+  "expire_in": 504576000,
+  "prev": "b91613a404f68c7eedc54de03cfe4abba6cdc2c4c7e4dea856fae78f14d9943c",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaVHZap5BARWCZ5Ganp2DQ1GuwHgWWkpBbGzzquAvmbQKp3BheWxvYWTESpcCDcQguRYTpAT2jH7txU3gPP5Ku6bNwsTH5N6oVvrnjxTZlDzEIGTm9kAWDEz4tr6+n291LOEvR/6xfcRV/1ChmddIyFcRAgHCo3NpZ8RAuCIkmbc7hXFIeMMflNSQhQYLE7ITqqM1bJ/CVOAs6cEFNx93G5+9Wh0DX4U9HRgefHIYxcqucgr+fCeYIlNLCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIlgz+ZO0HN89bXdF64KQwWLLKCl1oqifdjkHW1wY3yQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/littlediobolic
+
+==================================================================
