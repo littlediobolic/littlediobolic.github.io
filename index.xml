@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Place for Things and Stuff</title>
+    <title>Littlediobolic</title>
     <link>http://littlediobolic.github.io/</link>
-    <description>Recent content on Place for Things and Stuff</description>
+    <description>Recent content on Littlediobolic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 21:59:33 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 12:12:00 -0400</lastBuildDate>
     
 	<atom:link href="http://littlediobolic.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,24 +14,10 @@
     <item>
       <title>Configure Apple Magic Trackpad 2 Gestures on Manjaro KDE</title>
       <link>http://littlediobolic.github.io/posts/magic-trackpad/</link>
-      <pubDate>Sun, 17 May 2020 21:59:33 -0400</pubDate>
+      <pubDate>Wed, 10 Jun 2020 12:12:00 -0400</pubDate>
       
       <guid>http://littlediobolic.github.io/posts/magic-trackpad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hello World</title>
-      <link>http://littlediobolic.github.io/posts/hello-world/</link>
-      <pubDate>Sun, 17 May 2020 19:38:26 -0400</pubDate>
-      
-      <guid>http://littlediobolic.github.io/posts/hello-world/</guid>
-      <description>This is a test!
-Doe this work this way aswell?
-from time import * print(&amp;#34;Test&amp;#34;) Bold Test
-Italics
- Block Quote, does this work?
- </description>
+      <description>Intro I haven&amp;rsquo;t seen any full-length tutorials for getting the Apple Magic Trackpad 2, or really any multi-touch track-pad, working in Manjaro, or more specifically KDE, yet so I figured I&amp;rsquo;d write down how I did it. Most of the info I got was from the libinput-gestures Github page if you would like to check it out. The device works out of the box with left, right, and middle-click as well as 2 finger scrolling.</description>
     </item>
     
   </channel>

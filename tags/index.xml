@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Place for Things and Stuff</title>
+    <title>Tags on Littlediobolic</title>
     <link>http://littlediobolic.github.io/tags/</link>
-    <description>Recent content in Tags on Place for Things and Stuff</description>
+    <description>Recent content in Tags on Littlediobolic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 May 2020 21:59:33 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 12:12:00 -0400</lastBuildDate>
     
 	<atom:link href="http://littlediobolic.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Apple</title>
+      <link>http://littlediobolic.github.io/tags/apple/</link>
+      <pubDate>Wed, 10 Jun 2020 12:12:00 -0400</pubDate>
+      
+      <guid>http://littlediobolic.github.io/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>kde</title>
       <link>http://littlediobolic.github.io/tags/kde/</link>
-      <pubDate>Sun, 17 May 2020 21:59:33 -0400</pubDate>
+      <pubDate>Wed, 10 Jun 2020 12:12:00 -0400</pubDate>
       
       <guid>http://littlediobolic.github.io/tags/kde/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>linux</title>
       <link>http://littlediobolic.github.io/tags/linux/</link>
-      <pubDate>Sun, 17 May 2020 21:59:33 -0400</pubDate>
+      <pubDate>Wed, 10 Jun 2020 12:12:00 -0400</pubDate>
       
       <guid>http://littlediobolic.github.io/tags/linux/</guid>
       <description></description>
@@ -32,18 +41,9 @@
     <item>
       <title>manjaro</title>
       <link>http://littlediobolic.github.io/tags/manjaro/</link>
-      <pubDate>Sun, 17 May 2020 21:59:33 -0400</pubDate>
+      <pubDate>Wed, 10 Jun 2020 12:12:00 -0400</pubDate>
       
       <guid>http://littlediobolic.github.io/tags/manjaro/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>untagged</title>
-      <link>http://littlediobolic.github.io/tags/untagged/</link>
-      <pubDate>Sun, 17 May 2020 19:38:26 -0400</pubDate>
-      
-      <guid>http://littlediobolic.github.io/tags/untagged/</guid>
       <description></description>
     </item>
     
